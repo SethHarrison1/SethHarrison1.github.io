@@ -1,4 +1,5 @@
 name: "SethHarrison1.github.io"
+output_dir: "."
 navbar:
   title: "Seth Website"
   left:
