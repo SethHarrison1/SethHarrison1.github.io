@@ -1,6 +1,6 @@
-name: "my-website"
+name: "SethHarrison1.github.io"
 navbar:
-  title: "My Website"
+  title: "Seth Website"
   left:
     - text: "Home"
       href: index.html
